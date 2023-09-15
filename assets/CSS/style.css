@@ -1,0 +1,120 @@
+
+.fontmenu{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:black;
+    
+}
+
+hr{
+    color:burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:0px;
+    margin-bottom: 0px;;
+}
+
+h1{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight:bold;
+    color:black;
+    margin-top:36px;
+    margin-bottom: 24px;;
+}
+
+h2 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:burlywood;
+}
+
+h3 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:burlywood;
+}
+
+h4 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight:bold;
+    color:burlywood;
+    text-align: center;
+}
+
+.corpstexte{
+    font-family: 'Cormorant Garamond', serif;
+    color:black;
+    font-size: 125%;
+    text-indent: 1em;
+}
+
+.sommaire{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:black;
+    font-size:large;
+    text-decoration: none;
+}
+
+.sommairechapitrecourant{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:burlywood;
+    font-size:large;
+    text-decoration: none;
+}
+
+.fontseparateur{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:burlywood;
+    font-size:x-large;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 24px;
+}
+
+.fontfooter{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:burlywood;
+    font-size:small;
+}
+
+ol{
+    display : inline-block;
+    margin :auto;
+    text-align:left;
+  }
+
+  /*suppression bordure icône toggler*/
+  .navbar-light .navbar-toggler{
+    border:none;
+  }
+
+  /*modification couleur icône toggler*/
+  i{
+    color:burlywood;
+  }
+
+.image{
+    margin-top: 12px;
+    margin-bottom: 36px;
+    margin-left:auto;
+    margin-right:auto;
+    width: 100%;
+    display:block;
+}
+
+.card{
+    border: none;
+    padding-top: 48px;
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.p1{
+    font-family: 'Cormorant Garamond', serif;
+    color:black;
+    text-indent: 0em;
+}
+
+.p1::first-letter{
+    font-size: 1.5em;
+}
