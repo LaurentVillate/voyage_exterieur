@@ -113,6 +113,8 @@ p{
     font-family: 'Cormorant Garamond', serif;
     color:black;
     text-indent: 0em;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .p1::first-letter{
